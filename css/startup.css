@@ -1,0 +1,35 @@
+#header{
+	min-height: 110px;
+	background-color: #750909;
+	padding-top: 15px;
+}
+#search{
+	margin-top: 15px;
+	margin-bottom: 10px;
+}
+.nav-named > li.active > a, .nav-named > li.active > a:hover, .nav-named > li.active > a:focus {
+    color: #cc1919;
+    border: 1px solid #cc1919;
+    border-radius: 0px;
+    padding:7px 10px;
+    background-color: transparent;
+}
+a{
+	color:#cc1919;
+	background-color: transparent;
+}
+
+.second{
+	margin-top: 0px;
+}
+.third{
+	margin-top: 50px;
+}
+#footer{
+	min-height: 20px;
+	background-color: #750909;
+	color: white;
+	padding-left:30px;
+	padding-right: 30px;
+	padding-top: 15px;
+}

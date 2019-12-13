@@ -1,0 +1,36 @@
+
+.nav-named > li.active > a, .nav-named > li.active > a:hover, .nav-named > li.active > a:focus {
+    color: #cc1919;
+    border: 1px solid #cc1919;
+    border-radius: 0px;
+    padding:7px 10px;
+    background-color: transparent;
+}
+a{
+	color:#cc1919;
+	background-color: transparent;
+}
+
+#header{
+	min-height: 100px;
+	margin-bottom: 25px;
+	margin-top: 20px;
+}
+
+
+#mid{
+	min-height:510px;
+	color: white;
+}
+#footer{
+	margin-top: 22px;
+	min-height: 10px;
+	background-color: #750909;
+	color: white;
+	padding-left:30px;
+	padding-right: 30px;
+	padding-top: 15px;
+}
+.photo{
+
+}
